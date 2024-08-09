@@ -2,10 +2,9 @@
 title: "README"
 author: "Sebastian Ochoa, Andrea Valiente"
 date: "2024-08-09"
-output: html_document
-editor_options: 
+editor options: 
   markdown: 
-    wrap: 72
+    
 ---
 
 ***LABORATORIO 1: Análisis estadístico de la señal***
@@ -13,9 +12,9 @@ editor_options:
 ------------------------------------------------------------------------
 
 ```         
-                                                                                                                  Sebastian Ochoa 
-                                                                                                                  Andrea Valiente 
-                                                                                                                        UMNG 
+                                              Procesamiento digital de señales, BMEDB
+                                                         Carolina Corredor 
+                                                                UMNG 
 ```
 
 ------------------------------------------------------------------------
